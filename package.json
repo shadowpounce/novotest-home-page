@@ -1,0 +1,14 @@
+{
+  "name": "novotest-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Minkin <shadowpounce@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "swiper": "^8.4.4"
+  }
+}
