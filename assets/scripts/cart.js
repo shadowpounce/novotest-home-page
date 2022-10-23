@@ -34,7 +34,7 @@ function cartFunctional() {
       order.parentNode.removeChild(order)
       if (checkOrdersInCart() == 0) {
         cartModalBody.innerHTML = `<div class="no-orders-yet">
-        <img src="./assets/images/pictures/cart.png" alt="">
+        <img src="./assets/images/pictures/cart.webp" alt="">
         <h4>
           Ваша корзина пустая
         </h4>

@@ -90,7 +90,7 @@ const pages = [
         <div class="swiper-wrapper">
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -111,7 +111,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -132,7 +132,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -153,7 +153,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p2.png" alt="" />
+              <img src="./assets/images/pictures/p2.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -174,7 +174,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p3.png" alt="" />
+              <img src="./assets/images/pictures/p3.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -194,7 +194,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p4.png" alt="" />
+              <img src="./assets/images/pictures/p4.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -215,7 +215,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p5.png" alt="" />
+              <img src="./assets/images/pictures/p5.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -236,7 +236,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -257,7 +257,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -278,7 +278,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -330,27 +330,27 @@ const pages = [
       <div class="devices-row">
         <div class="device">
           <h6>Твердомеры для металлов, сплавов, резины, пластиков</h6>
-          <img src="./assets/images/pictures/d1.png" alt="" />
+          <img src="./assets/images/pictures/d1.webp" alt="" />
         </div>
         <div class="device">
           <h6>Ультразвуковой контроль</h6>
-          <img src="./assets/images/pictures/d2.png" alt="" />
+          <img src="./assets/images/pictures/d2.webp" alt="" />
         </div>
         <div class="device">
           <h6>Контроль качества покрытий</h6>
-          <img src="./assets/images/pictures/d3.png" alt="" />
+          <img src="./assets/images/pictures/d3.webp" alt="" />
         </div>
         <div class="device">
           <h6>Толщиномеры (ультразвуковые, покрытий)</h6>
-          <img src="./assets/images/pictures/d4.png" alt="" />
+          <img src="./assets/images/pictures/d4.webp" alt="" />
         </div>
         <div class="device">
           <h6>Дефектоскопы (металлов, покрытий, пластиков)</h6>
-          <img src="./assets/images/pictures/d5.png" alt="" />
+          <img src="./assets/images/pictures/d5.webp" alt="" />
         </div>
         <div class="device">
           <h6>Дефектоскопы (металлов, покрытий, пластиков)</h6>
-          <img src="./assets/images/pictures/d5.png" alt="" />
+          <img src="./assets/images/pictures/d5.webp" alt="" />
         </div>
       </div>
     </div>
@@ -379,7 +379,7 @@ const pages = [
         <div class="swiper-wrapper">
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np2.png" alt="" />
+              <img src="./assets/images/pictures/np2.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -394,7 +394,7 @@ const pages = [
           </div>
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np1.png" alt="" />
+              <img src="./assets/images/pictures/np1.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -409,7 +409,7 @@ const pages = [
           </div>
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np3.png" alt="" />
+              <img src="./assets/images/pictures/np3.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -424,7 +424,7 @@ const pages = [
           </div>
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np4.png" alt="" />
+              <img src="./assets/images/pictures/np4.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -437,7 +437,7 @@ const pages = [
           </div>
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np1.png" alt="" />
+              <img src="./assets/images/pictures/np1.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -452,7 +452,7 @@ const pages = [
           </div>
           <div class="news-card swiper-slide">
             <div class="news-card__preview">
-              <img src="./assets/images/pictures/np1.png" alt="" />
+              <img src="./assets/images/pictures/np1.webp" alt="" />
             </div>
             <div class="news-card__body">
               <span class="date"> 03 февраля 2022 </span>
@@ -495,7 +495,7 @@ const pages = [
   </section>
   <div class="pre-footer__banner">
     <div class="pre-footer__banner-picture">
-      <img src="./assets/images/pictures/banner-phones.png" alt="" />
+      <img src="./assets/images/pictures/banner-phones.webp" alt="" />
     </div>
 
     <div class="top-row">
@@ -753,7 +753,7 @@ const pages = [
       <ul class="order-list">
         <li class="order">
           <div class="product-info">
-            <img src="./assets/images/pictures/ord1.png" alt="" />
+            <img src="./assets/images/pictures/ord1.webp" alt="" />
             <div>
               <h4 class="product__title">
                 Влагозащищенный ультразвуковой толщиномер УТ-1М-IP
@@ -777,7 +777,7 @@ const pages = [
         </li>
         <li class="order">
           <div class="product-info">
-            <img src="./assets/images/pictures/ord1.png" alt="" />
+            <img src="./assets/images/pictures/ord1.webp" alt="" />
             <div>
               <h4 class="product__title">
                 Влагозащищенный ультразвуковой толщиномер УТ-1М-IP
@@ -824,7 +824,7 @@ const pages = [
         <div class="dropdown__body">
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -845,7 +845,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -866,7 +866,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p1.png" alt="" />
+              <img src="./assets/images/pictures/p1.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -887,7 +887,7 @@ const pages = [
           </div>
           <div class="swiper-slide product-card">
             <div class="product-card__image">
-              <img src="./assets/images/pictures/p2.png" alt="" />
+              <img src="./assets/images/pictures/p2.webp" alt="" />
             </div>
             <div class="product-card__body">
               <span class="product-code"> Код: 22513000-1 </span>
@@ -940,7 +940,7 @@ const pages = [
         <div class="swiper-slide product-card promotion-product">
           <div class="promotion">-50 %</div>
           <div class="product-card__image">
-            <img src="./assets/images/pictures/p1.png" alt="" />
+            <img src="./assets/images/pictures/p1.webp" alt="" />
           </div>
           <div class="product-card__body">
             <span class="product-code"> Код: 22513000-1 </span>
@@ -963,7 +963,7 @@ const pages = [
         <div class="swiper-slide product-card promotion-product">
           <div class="promotion">-50 %</div>
           <div class="product-card__image">
-            <img src="./assets/images/pictures/p1.png" alt="" />
+            <img src="./assets/images/pictures/p1.webp" alt="" />
           </div>
           <div class="product-card__body">
             <span class="product-code"> Код: 22513000-1 </span>
@@ -986,7 +986,7 @@ const pages = [
         <div class="swiper-slide product-card promotion-product">
           <div class="promotion">-50 %</div>
           <div class="product-card__image">
-            <img src="./assets/images/pictures/p1.png" alt="" />
+            <img src="./assets/images/pictures/p1.webp" alt="" />
           </div>
           <div class="product-card__body">
             <span class="product-code"> Код: 22513000-1 </span>
@@ -1009,7 +1009,7 @@ const pages = [
         <div class="swiper-slide product-card promotion-product">
           <div class="promotion">-50 %</div>
           <div class="product-card__image">
-            <img src="./assets/images/pictures/p1.png" alt="" />
+            <img src="./assets/images/pictures/p1.webp" alt="" />
           </div>
           <div class="product-card__body">
             <span class="product-code"> Код: 22513000-1 </span>
@@ -1032,7 +1032,7 @@ const pages = [
         <div class="swiper-slide product-card promotion-product">
           <div class="promotion">-50 %</div>
           <div class="product-card__image">
-            <img src="./assets/images/pictures/p1.png" alt="" />
+            <img src="./assets/images/pictures/p1.webp" alt="" />
           </div>
           <div class="product-card__body">
             <span class="product-code"> Код: 22513000-1 </span>

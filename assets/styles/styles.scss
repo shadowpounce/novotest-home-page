@@ -141,6 +141,32 @@ button {
     .dropdown {
       &__body {
         flex-wrap: wrap;
+
+        @media (max-width: 480px) {
+          overflow: hidden;
+        }
+
+        .product-card {
+          min-width: 35%;
+        }
+
+        .product-code {
+          @media (max-width: 480px) {
+            font-size: 8px !important;
+          }
+        }
+
+        .product-card h4 {
+          @media (max-width: 480px) {
+            font-size: 10px !important;
+          }
+        }
+
+        .product-card__body {
+          @media (max-width: 480px) {
+            padding: 5px;
+          }
+        }
       }
     }
 
